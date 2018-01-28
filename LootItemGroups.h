@@ -92,24 +92,47 @@
 4, Exile_Magazine_8Rnd_9x18				// Makarov
 4, Exile_Magazine_10Rnd_765x17_SA61		// SA61
 4, Exile_Magazine_20Rnd_765x17_SA61		// SA61
+1, CUP_10Rnd_9x19_Compact			//CUP Compact
+1, CUP_15Rnd_9x19_M9				//CUP M9
+3, CUP_17Rnd_9x19_glock17			//CUP Glock17
+5, CUP_18Rnd_9x19_Phantom			//CUP Phantom
+4, CUP_6Rnd_45ACP_M				//CUP Duty?
+4, CUP_7Rnd_45ACP_1911				//CUP 1911
+3, CUP_8Rnd_9x18_MakarovSD_M			//CUP Makarov
+3, CUP_8Rnd_9x18_Makarov_M			//CUP Makarov
 
 > PistolAttachments
 1, optic_MRD
 1, optic_Yorris		// No one needs this crap
 2, muzzle_snds_acp
 2, muzzle_snds_L
+2. CUP_muzzle_PB6P9
+1, CUP_muzzle_snds_M9
+3, CUP_muzzle_snds_MicroUzi
 
 > Shotguns
-1, Exile_Weapon_M1014	//M1014
+3, Exile_Weapon_M1014	//M1014
+1, CUP_sgun_AA12	//CUP AA12
+3, CUP_sgun_M1014	//CUP M1014
+2, CUP_sgun_Saiga12K	//CUP Saiga12k
 
 > ShotgunAmmo
-1, Exile_Magazine_8Rnd_74Slug		//M1014
+3, Exile_Magazine_8Rnd_74Slug		//M1014
+1, CUP_20Rnd_B_AA12_74Slug		//CUP AA12
+1, CUP_20Rnd_B_AA12_HE			//CUP AA12
+1, CUP_20Rnd_B_AA12_Pellets		//CUP AA12
+3, CUP_8Rnd_B_Beneli_74Slug		//CUP M1014
+2, CUP_8Rnd_B_Saiga12_74Slug_M		//CUP Saiga12k
 
 > SMG
 1, SMG_01_F		// Vermin SMG .45 ACP
 1, SMG_02_F		// Sting 9 mm
 1, SMG_05_F		// Protector 9mm
 1, hgun_PDW2000_F	// PDW2000 9 mm
+1, CUP_smg_EVO		//CUP EVO
+1, CUP_smg_MP5A5	//CUP MP5A5
+1, CUP_smg_MP5SD6	//CUP MP5SD6
+1, CUP_smg_bizon	//CUP Bizon
 
 > SMGAmmo
 1, 30Rnd_45ACP_Mag_SMG_01					// Vermin SMG
@@ -134,6 +157,16 @@
 1, Weapon_SMG_03C_TR_camo					//ADR-97C TR Camo
 1, Weapon_SMG_03C_TR_hex					//ADR-97C TR Hex
 1, Weapon_SMG_03C_TR_khaki					//ADR-97C TR Khaki
+1, CUP_10Rnd_B_765x17_Ball_M					//CUP SA-61
+1, CUP_20Rnd_B_765x17_Ball_M					//CUP SA-61
+1, CUP_30Rnd_9x19_EVO						//CUP EVO
+1, CUP_30Rnd_9x19_MP5						//CUP MP5
+1, CUP_30Rnd_9x19_UZI						//CUP UZI
+1, CUP_64Rnd_9x19_Bizon_M					//CUP Bizon
+1, CUP_64Rnd_Green_Tracer_9x19_Bizon_M				//CUP Bizon
+1, CUP_64Rnd_Red_Tracer_9x19_Bizon_M				//CUP Bizon
+1, CUP_64Rnd_White_Tracer_9x19_Bizon_M				//CUP Bizon
+1, CUP_64Rnd_Yellow_Tracer_9x19_Bizon_M				//CUP Bizon
 
 > SMGAttachments
 1, optic_Holosight_smg
@@ -143,6 +176,7 @@
 1, optic_ACO_grn
 1, optic_Aco
 1, Item_muzzle_snds_570						//ADR-97 Silencer
+1, CUP_muzzle_snds_MicroUzi					//CUP MicroUzi
 
 > Rifles
 1, arifle_Katiba_GL_F		// Katiba GL 6.5 mm
@@ -208,6 +242,79 @@
 3, Exile_Weapon_M16A4			// M16A4
 3, Exile_Weapon_M16A2			// M16A2
 10, Exile_Weapon_LeeEnfield
+CUP_arifle_AK107
+CUP_arifle_AK107_GL
+CUP_arifle_AK74
+CUP_arifle_AK74_GL
+CUP_arifle_AKM
+CUP_arifle_AKS
+CUP_arifle_AKS74
+CUP_arifle_AKS74U
+CUP_arifle_AKS_Gold
+CUP_arifle_CZ805_A1
+CUP_arifle_CZ805_A2
+CUP_arifle_CZ805_B
+CUP_arifle_CZ805_B_GL
+CUP_arifle_CZ805_GL
+CUP_arifle_FNFAL
+CUP_arifle_FNFAL_railed
+CUP_arifle_G36A
+CUP_arifle_G36A_camo
+CUP_arifle_G36C
+CUP_arifle_G36C_camo
+CUP_arifle_G36K
+CUP_arifle_G36K_camo
+CUP_arifle_L85A2
+CUP_arifle_L85A2_GL
+CUP_arifle_L86A2
+CUP_arifle_M16A2
+CUP_arifle_M16A2_GL
+CUP_arifle_M16A4GL
+CUP_arifle_M16A4_Base
+CUP_arifle_M16A4_GL
+CUP_arifle_M4A1
+CUP_arifle_M4A1_BUIS_GL
+CUP_arifle_M4A1_BUIS_camo_GL
+CUP_arifle_M4A1_BUIS_desert_GL
+CUP_arifle_M4A1_black
+CUP_arifle_M4A1_camo
+CUP_arifle_M4A1_desert
+CUP_arifle_MG36
+CUP_arifle_MG36_camo
+CUP_arifle_Mk16_CQC
+CUP_arifle_Mk16_CQC_EGLM
+CUP_arifle_Mk16_CQC_FG
+CUP_arifle_Mk16_CQC_SFG
+CUP_arifle_Mk16_STD
+CUP_arifle_Mk16_STD_EGLM
+CUP_arifle_Mk16_STD_FG
+CUP_arifle_Mk16_STD_SFG
+CUP_arifle_Mk16_SV
+CUP_arifle_Mk17_CQC
+CUP_arifle_Mk17_CQC_EGLM
+CUP_arifle_Mk17_CQC_FG
+CUP_arifle_Mk17_CQC_SFG
+CUP_arifle_Mk17_STD
+CUP_arifle_Mk17_STD_EGLM
+CUP_arifle_Mk17_STD_FG
+CUP_arifle_Mk17_STD_SFG
+CUP_arifle_Mk20
+CUP_arifle_RPK74
+CUP_arifle_Sa58P
+CUP_arifle_Sa58P_des
+CUP_arifle_Sa58RIS1
+CUP_arifle_Sa58RIS2
+CUP_arifle_Sa58RIS2_camo
+CUP_arifle_Sa58V
+CUP_arifle_Sa58V_camo
+CUP_arifle_XM8_Carbine
+CUP_arifle_XM8_Carbine_FG
+CUP_arifle_XM8_Carbine_GL
+CUP_arifle_XM8_Compact
+CUP_arifle_XM8_Compact_Rail
+CUP_arifle_XM8_Railed
+CUP_arifle_xm8_SAW
+CUP_arifle_xm8_sharpshooter
 
 > RifleAmmo
 2, 20Rnd_556x45_UW_mag						// SDAR
@@ -254,6 +361,43 @@
 2, 150Rnd_556x45_Drum_Mag_F					// SPAR-16S 
 2, 150Rnd_556x45_Drum_Mag_Tracer_F			// SPAR-16S 
 2, 20Rnd_762x51_Mag							// SPAR-17
+CUP_100Rnd_556x45_BetaCMag
+CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag
+CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag
+CUP_100Rnd_TE1_Yellow_Tracer_556x45_BetaCMag
+CUP_20Rnd_556x45_Stanag
+CUP_20Rnd_762x51_B_SCAR
+CUP_20Rnd_762x51_CZ805B
+CUP_20Rnd_762x51_DMR
+CUP_20Rnd_762x51_FNFAL_M
+CUP_20Rnd_TE1_Green_Tracer_762x51_CZ805B
+CUP_20Rnd_TE1_Green_Tracer_762x51_DMR
+CUP_20Rnd_TE1_Green_Tracer_762x51_SCAR
+CUP_20Rnd_TE1_Red_Tracer_762x51_CZ805B
+CUP_20Rnd_TE1_Red_Tracer_762x51_DMR
+CUP_20Rnd_TE1_Red_Tracer_762x51_SCAR
+CUP_20Rnd_TE1_White_Tracer_762x51_CZ805B
+CUP_20Rnd_TE1_White_Tracer_762x51_DMR
+CUP_20Rnd_TE1_White_Tracer_762x51_SCAR
+CUP_20Rnd_TE1_Yellow_Tracer_762x51_CZ805B
+CUP_20Rnd_TE1_Yellow_Tracer_762x51_DMR
+CUP_20Rnd_TE1_Yellow_Tracer_762x51_SCAR
+CUP_30Rnd_545x39_AK_M
+CUP_30Rnd_556x45_G36
+CUP_30Rnd_556x45_Stanag
+CUP_30Rnd_762x39_AK47_M
+CUP_30Rnd_Sa58_M
+CUP_30Rnd_Sa58_M_TracerG
+CUP_30Rnd_Sa58_M_TracerR
+CUP_30Rnd_Sa58_M_TracerY
+CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M
+CUP_30Rnd_TE1_Green_Tracer_556x45_G36
+CUP_30Rnd_TE1_Red_Tracer_545x39_AK_M
+CUP_30Rnd_TE1_Red_Tracer_556x45_G36
+CUP_30Rnd_TE1_White_Tracer_545x39_AK_M
+CUP_30Rnd_TE1_Yellow_Tracer_545x39_AK_M
+CUP_30Rnd_TE1_Yellow_Tracer_556x45_G36
+CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M
 
 > RifleAttachments
 2, muzzle_snds_M
@@ -287,6 +431,51 @@
 2, optic_ERCO_snd_F
 1, optic_NVS
 //1, optic_tws
+CUP_muzzle_Bizon
+CUP_muzzle_PBS4
+CUP_muzzle_snds_G36_black
+CUP_muzzle_snds_G36_desert
+CUP_muzzle_snds_L85
+CUP_muzzle_snds_M16
+CUP_muzzle_snds_M16_camo
+CUP_muzzle_mfsup_SCAR_L
+CUP_muzzle_snds_SCAR_L
+CUP_muzzle_snds_SCAR_H
+CUP_muzzle_mfsup_SCAR_H
+CUP_optic_ACOG
+CUP_optic_AN_PAS_13c1
+CUP_optic_AN_PAS_13c2
+CUP_optic_AN_PVS_10
+CUP_optic_AN_PVS_4
+CUP_optic_CompM2_Black
+CUP_optic_CompM2_Desert
+CUP_optic_CompM2_Woodland
+CUP_optic_CompM2_Woodland2
+CUP_optic_CompM4
+CUP_optic_ELCAN_SpecterDR
+CUP_optic_Eotech533
+CUP_optic_HoloBlack
+CUP_optic_HoloDesert
+CUP_optic_HoloWdl
+CUP_optic_Kobra
+CUP_optic_MRad
+CUP_optic_PechenegScope
+CUP_optic_RCO
+CUP_optic_RCO_desert
+CUP_optic_SUSAT
+CUP_optic_TrijiconRx01_black
+CUP_optic_TrijiconRx01_desert
+CUP_optic_ZDDot
+CUP_acc_ANPEQ_15
+CUP_acc_ANPEQ_2
+CUP_acc_ANPEQ_2_camo
+CUP_acc_ANPEQ_2_desert
+CUP_acc_ANPEQ_2_grey
+CUP_acc_Flashlight
+CUP_acc_Flashlight_desert
+CUP_acc_Flashlight_wdl
+CUP_acc_XM8_light_module
+
 
 > LMG
 1, arifle_MX_SW_Black_F		// MX SW 6.5 mm (Black)
@@ -297,6 +486,16 @@
 1, Exile_Weapon_PK
 1, Exile_Weapon_PKP
 1, LMG_03_F					//= LIM-85 5.56 mm
+CUP_lmg_L110A1
+CUP_lmg_L7A2
+CUP_lmg_M240
+CUP_lmg_M249
+CUP_lmg_M249_para
+CUP_lmg_Mk48_des
+CUP_lmg_Mk48_wdl
+CUP_lmg_PKM
+CUP_lmg_Pecheneg
+CUP_lmg_UK59
 
 > LMGAmmo
 2, 100Rnd_65x39_caseless_mag			// MX SW
@@ -315,7 +514,18 @@
 1, 200Rnd_556x45_Box_F					// LIM-85 	
 1, 200Rnd_556x45_Box_Red_F         		// LIM-85	
 1, 200Rnd_556x45_Box_Tracer_F      		// LIM-85	
-1, 200Rnd_556x45_Box_Tracer_Red_F  		// LIM-85	
+1, 200Rnd_556x45_Box_Tracer_Red_F  		// LIM-85
+CUP_100Rnd_TE4_Green_Tracer_556x45_M249
+CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M
+CUP_100Rnd_TE4_Red_Tracer_556x45_M249
+CUP_100Rnd_TE4_Yellow_Tracer_556x45_M249
+CUP_200Rnd_TE1_Red_Tracer_556x45_M249
+CUP_200Rnd_TE4_Green_Tracer_556x45_L110A1
+CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1
+CUP_200Rnd_TE4_Red_Tracer_556x45_M249
+CUP_200Rnd_TE4_Yellow_Tracer_556x45_L110A1
+CUP_200Rnd_TE4_Yellow_Tracer_556x45_M249
+CUP_50Rnd_UK59_762x54R_Tracer
 
 > Snipers
 1, srifle_DMR_01_F			// Rahim 7.62 mm
@@ -329,6 +539,24 @@
 1, srifle_DMR_07_ghex_F    	// CMR-76 6.5 mm (Green Hex)
 1, Exile_Weapon_m107		// M107
 1, Exile_Weapon_ksvk		// KSVK
+CUP_srifle_AS50
+CUP_srifle_AWM_des
+CUP_srifle_AWM_wdl
+CUP_srifle_CZ550
+CUP_srifle_CZ750
+CUP_srifle_DMR
+CUP_srifle_LeeEnfield
+CUP_srifle_M107_Base
+CUP_srifle_M110
+CUP_srifle_M14
+CUP_srifle_M24_des
+CUP_srifle_M24_wdl
+CUP_srifle_M40A3
+CUP_srifle_Mk12SPR
+CUP_srifle_SVD
+CUP_srifle_SVD_des
+CUP_srifle_VSSVintorez
+CUP_srifle_ksvk
 
 > SniperAmmo
 1, Exile_Magazine_5Rnd_127x108_APDS_Bullet_Cam_Mag 			// GM6 Lynx 12.7mm
@@ -348,6 +576,23 @@
 17, 10Rnd_762x54_Mag										// Rahim
 19, 20Rnd_762x51_Mag										// Mk18 ABR
 21, 20Rnd_650x39_Cased_Mag_F								// CMR-76
+CUP_10Rnd_127x99_m107
+CUP_10Rnd_762x51_CZ750
+CUP_10Rnd_762x51_CZ750_Tracer
+CUP_10Rnd_762x54_SVD_M
+CUP_10Rnd_9x39_SP5_VSS_M
+CUP_10x_303_M
+CUP_20Rnd_762x51_B_M110
+CUP_20Rnd_9x39_SP5_VSS_M
+CUP_20Rnd_TE1_Green_Tracer_762x51_M110
+CUP_20Rnd_TE1_Red_Tracer_762x51_M110
+CUP_20Rnd_TE1_White_Tracer_762x51_M110
+CUP_20Rnd_TE1_Yellow_Tracer_762x51_M110
+CUP_5Rnd_127x108_KSVK_M
+CUP_5Rnd_127x99_as50_M
+CUP_5Rnd_762x51_M24
+CUP_5Rnd_86x70_L115A1
+CUP_5x_22_LR_17_HMR_M
 
 > SniperAttachments
 1, muzzle_snds_B_khk_F
@@ -361,6 +606,66 @@
 1, optic_DMS
 //1, optic_tws
 //1, optic_tws_mg
+CUP_muzzle_snds_AWM
+CUP_optic_SB_11_4x20_PM
+CUP_optic_GOSHAWK
+CUP_optic_LeupoldM3LR
+CUP_optic_LeupoldMk4
+CUP_optic_LeupoldMk4_10x40_LRT_Desert
+CUP_optic_LeupoldMk4_10x40_LRT_Woodland
+CUP_optic_LeupoldMk4_CQ_T
+CUP_optic_LeupoldMk4_MRT_tan
+CUP_optic_Leupold_VX3
+CUP_optic_CWS
+CUP_optic_AN_PAS_13c1
+CUP_optic_AN_PAS_13c2
+CUP_optic_AN_PVS_10
+CUP_optic_AN_PVS_4
+CUP_optic_ElcanM145
+
+>GrenadeLaunchers
+CUP_glaunch_6G30
+CUP_glaunch_M32
+CUP_glaunch_M79
+CUP_glaunch_Mk13
+
+>LauncherAmmo
+CUP_1Rnd_HEDP_M203
+CUP_1Rnd_HE_M203
+CUP_1Rnd_SmokeGreen_M203
+CUP_1Rnd_SmokeRed_M203
+CUP_1Rnd_SmokeYellow_M203
+CUP_1Rnd_Smoke_M203
+CUP_6Rnd_FlareGreen_M203
+CUP_6Rnd_FlareRed_M203
+CUP_6Rnd_FlareWhite_M203
+CUP_6Rnd_FlareYellow_M203
+CUP_6Rnd_HE_M203
+CUP_6Rnd_SmokeGreen_M203
+CUP_6Rnd_SmokeRed_M203
+CUP_6Rnd_SmokeYellow_M203
+CUP_6Rnd_Smoke_M203
+CUP_AT13_M
+CUP_Dragon_EP1_M
+CUP_FlareGreen_M203
+CUP_FlareRed_M203
+CUP_FlareWhite_M203
+CUP_FlareYellow_M203
+CUP_Igla_M
+CUP_Javelin_M
+CUP_M136_M
+CUP_MAAWS_HEAT_M
+CUP_MAAWS_HEDP_M
+CUP_NLAW_M
+CUP_OG7_M
+CUP_PG7VL_M
+CUP_PG7VR_M
+CUP_PG7V_M
+CUP_RPG18_M
+CUP_SMAW_HEAA_M
+CUP_SMAW_HEDP_M
+CUP_Stinger_M
+CUP_Strela_2_M
 
 > DLCRifles
 // To overpowered. Do not use in vanilla Exile
