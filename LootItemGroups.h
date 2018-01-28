@@ -506,6 +506,50 @@
 9, U_C_Poor_shorts_1
 9, U_C_Scientist
 9, U_Rangemaster
+5, CUP_U_C_Citizen_01
+5, CUP_U_C_Citizen_02
+5, CUP_U_C_Citizen_03
+5, CUP_U_C_Citizen_04
+5, CUP_U_C_Pilot_01
+5, CUP_U_C_Profiteer_01
+5, CUP_U_C_Profiteer_02
+5, CUP_U_C_Profiteer_03
+5, CUP_U_C_Profiteer_04
+5, CUP_U_C_Villager_01
+5, CUP_U_C_Villager_02
+5, CUP_U_C_Villager_03
+5, CUP_U_C_Villager_04
+5, CUP_U_C_Woodlander_01
+5, CUP_U_C_Woodlander_02
+5, CUP_U_C_Woodlander_03
+5, CUP_U_C_Woodlander_04
+5, CUP_U_C_Worker_01
+5, CUP_U_C_Worker_02
+5, CUP_U_C_Worker_03
+5, CUP_U_C_Worker_04
+5, CUP_U_I_Ghillie_Top
+5, CUP_U_I_RACS_Desert_1
+5, CUP_U_I_RACS_Desert_2
+5, CUP_U_I_RACS_PilotOverall
+5, CUP_U_I_RACS_Urban_1
+5, CUP_U_I_RACS_Urban_2
+5, CUP_U_O_Partisan_TTsKO
+5, CUP_U_O_Partisan_TTsKO_Mixed
+5, CUP_U_O_Partisan_VSR_Mixed1
+5, CUP_U_O_Partisan_VSR_Mixed2
+5, CUP_U_O_SLA_Desert
+5, CUP_U_O_SLA_Green
+5, CUP_U_O_SLA_MixedCamo
+5, CUP_U_O_SLA_Officer
+5, CUP_U_O_SLA_Officer_Suit
+5, CUP_U_O_SLA_Overalls_Pilot
+5, CUP_U_O_SLA_Overalls_Tank
+5, CUP_U_O_SLA_Urban
+5, CUP_U_O_TK_Ghillie
+5, CUP_U_O_TK_Ghillie_Top
+5, CUP_U_O_TK_Green
+5, CUP_U_O_TK_MixedCamo
+5, CUP_U_O_TK_Officer
 
 > CivilianBackpacks
 1, B_Kitbag_cbr
@@ -523,6 +567,8 @@
 1, B_OutdoorPack_blu
 1, B_OutdoorPack_tan
 1, B_OutdoorPack_blk
+1, CUP_B_CivPack_WDL
+1, CUP_B_HikingPack_Civ
 
 > CivilianVests
 1, V_Press_F
@@ -548,6 +594,18 @@
 1, H_Hat_tan
 1, H_StrawHat
 1, H_StrawHat_dark
+1, CUP_H_C_Beanie_01
+1, CUP_H_C_Beanie_02
+1, CUP_H_C_Beanie_03
+1, CUP_H_C_Beanie_04
+1, CUP_H_C_Beret_01
+1, CUP_H_C_Beret_02
+1, CUP_H_C_Beret_03
+1, CUP_H_C_Beret_04
+1, CUP_H_C_Ushanka_01
+1, CUP_H_C_Ushanka_02
+1, CUP_H_C_Ushanka_03
+1, CUP_H_C_Ushanka_04
 
 //Guerilla
 
@@ -575,6 +633,10 @@
 6, U_IG_Guerilla2_1
 6, U_IG_Guerilla2_2
 6, U_IG_Guerilla2_3
+5, CUP_U_I_GUE_Flecktarn           // CUP GUE
+5, CUP_U_I_GUE_Flecktarn2          // CUP GUE
+5, CUP_U_I_GUE_Flecktarn3          // CUP GUE
+5, CUP_U_I_GUE_Woodland1           // CUP GUE
 
 > GuerillaBackpacks
 1, B_Bergen_blk
@@ -616,6 +678,7 @@
 2, V_HarnessOGL_gry
 2, V_HarnessOSpec_brn
 2, V_HarnessOSpec_gry
+2, CUP_V_I_Guerilla_Jacket
 
 > GuerillaHeadgear
 1, H_Beret_02
@@ -711,6 +774,56 @@
 5, U_B_T_Soldier_SL_F               // Recon Fatigues (Tropic)
 5, U_O_T_Officer_F                  // Officer Fatigues (Green Hex) [CSAT]
 5, U_O_T_Soldier_F                  // Fatigues (Green Hex) [CSAT]
+5, CUP_O_TKI_Khet_Jeans_01          // CUP TKI
+5, CUP_O_TKI_Khet_Jeans_02          // CUP TKI
+5, CUP_O_TKI_Khet_Jeans_03          // CUP TKI
+5, CUP_O_TKI_Khet_Jeans_04          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_01          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_02          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_03          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_04          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_05          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_06          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_07          // CUP TKI
+5, CUP_O_TKI_Khet_Partug_08          // CUP TKI
+5, CUP_U_B_BAF_DDPM_S1_RolledUp         //CUP BAF
+5, CUP_U_B_BAF_DDPM_S1_UnRolled         //CUP BAF
+5, CUP_U_B_BAF_DDPM_Tshirt              //CUP BAF
+5, CUP_U_B_BAF_DPM_S1_RolledUp          //CUP BAF
+5, CUP_U_B_BAF_DPM_S2_UnRolled          //CUP BAF
+5, CUP_U_B_BAF_DPM_Tshirt               //CUP BAF
+5, CUP_U_B_BAF_MTP_S1_RolledUp          //CUP BAF
+5, CUP_U_B_BAF_MTP_S2_UnRolled          //CUP BAF
+5, CUP_U_B_BAF_MTP_S3_RolledUp          //CUP BAF
+5, CUP_U_B_BAF_MTP_S4_UnRolled          //CUP BAF
+5, CUP_U_B_BAF_MTP_S5_UnRolled          //CUP BAF
+5, CUP_U_B_BAF_MTP_S6_UnRolled          //CUP BAF
+5, CUP_U_B_BAF_MTP_Tshirt               //CUP BAF
+5, CUP_U_B_CZ_WDL_TShirt                //CUP CZ
+5, CUP_U_B_FR_Corpsman                 //CUP FR
+5, CUP_U_B_FR_DirAction                //CUP FR
+5, CUP_U_B_FR_DirAction2               //CUP FR
+5, CUP_U_B_FR_Light                    //CUP FR
+5, CUP_U_B_FR_Officer                  //CUP FR
+5, CUP_U_B_FR_Scout                    //CUP FR
+5, CUP_U_B_FR_Scout1                   //CUP FR
+5, CUP_U_B_FR_Scout2                   //CUP FR
+5, CUP_U_B_FR_Scout3                   //CUP FR
+5, CUP_U_B_FR_SpecOps                  //CUP FR
+5, CUP_U_B_GER_Fleck_Ghillie          //CUP GER
+5, CUP_U_B_GER_Flecktarn_1            //CUP GER
+5, CUP_U_B_GER_Flecktarn_2            //CUP GER
+5, CUP_U_B_GER_Ghillie                //CUP GER
+5, CUP_U_B_GER_Tropentarn_1           //CUP GER
+5, CUP_U_B_GER_Tropentarn_2           //CUP GER
+5, CUP_U_B_USMC_Ghillie_WDL                       //CUP USMC
+5, CUP_U_B_USMC_MARPAT_WDL_Kneepad                //CUP USMC
+5, CUP_U_B_USMC_MARPAT_WDL_RollUpKneepad          //CUP USMC
+5, CUP_U_B_USMC_MARPAT_WDL_RolledUp               //CUP USMC
+5, CUP_U_B_USMC_MARPAT_WDL_Sleeves                //CUP USMC
+5, CUP_U_B_USMC_MARPAT_WDL_TwoKneepads            //CUP USMC
+5, CUP_U_B_USMC_Officer                           //CUP USMC
+5, CUP_U_B_USMC_PilotOverall                      //CUP USMC
 
 > MilitaryBackpacks
 1, B_Bergen_Base_F				
@@ -725,6 +838,19 @@
 2, B_Carryall_oli
 2, B_Carryall_cbr
 2, B_Carryall_ghex_F  
+2, CUP_B_ACRPara_m95
+2, CUP_B_AssaultPack_ACU
+2, CUP_B_AssaultPack_Black
+2, CUP_B_AssaultPack_Coyote
+2, CUP_B_Bergen_BAF
+2, CUP_B_GER_Pack_Flecktarn
+2, CUP_B_GER_Pack_Tropentarn
+2, CUP_B_MOLLE_WDL
+2, CUP_B_RUS_Backpack
+2, CUP_B_USMC_AssaultPack
+2, CUP_B_USMC_MOLLE
+2, CUP_B_USPack_Black
+2, CUP_B_USPack_Coyote
 
 > MilitaryVests
 1, V_PlateCarrierH_CTRG
@@ -738,6 +864,99 @@
 2, V_PlateCarrierIA2_dgtl
 2, V_PlateCarrierIAGL_dgtl
 2, V_PlateCarrierSpec_rgr
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Grenadier
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Medic
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Officer
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Sapper
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Scout
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Soldier1
+2, CUP_V_BAF_Osprey_Mk2_DDPM_Soldier2
+2, CUP_V_BAF_Osprey_Mk2_DPM_Grenadier
+2, CUP_V_BAF_Osprey_Mk2_DPM_Medic
+2, CUP_V_BAF_Osprey_Mk2_DPM_Officer
+2, CUP_V_BAF_Osprey_Mk2_DPM_Sapper
+2, CUP_V_BAF_Osprey_Mk2_DPM_Scout
+2, CUP_V_BAF_Osprey_Mk2_DPM_Soldier1
+2, CUP_V_BAF_Osprey_Mk2_DPM_Soldier2
+2, CUP_V_BAF_Osprey_Mk4_MTP_Grenadier
+2, CUP_V_BAF_Osprey_Mk4_MTP_MachineGunner
+2, CUP_V_BAF_Osprey_Mk4_MTP_Rifleman
+2, CUP_V_BAF_Osprey_Mk4_MTP_SquadLeader
+2, CUP_V_B_GER_Carrier_Rig
+2, CUP_V_B_GER_Carrier_Rig_2
+2, CUP_V_B_GER_Carrier_Vest
+2, CUP_V_B_GER_Carrier_Vest_2
+2, CUP_V_B_GER_Carrier_Vest_3
+2, CUP_V_B_GER_Vest_1
+2, CUP_V_B_GER_Vest_2
+2, CUP_V_B_LHDVest_Blue
+2, CUP_V_B_LHDVest_Brown
+2, CUP_V_B_LHDVest_Green
+2, CUP_V_B_LHDVest_Red
+2, CUP_V_B_LHDVest_Violet
+2, CUP_V_B_LHDVest_White
+2, CUP_V_B_LHDVest_Yellow
+2, CUP_V_B_MTV
+2, CUP_V_B_MTV_LegPouch
+2, CUP_V_B_MTV_MG
+2, CUP_V_B_MTV_Marksman
+2, CUP_V_B_MTV_Mine
+2, CUP_V_B_MTV_Patrol
+2, CUP_V_B_MTV_PistolBlack
+2, CUP_V_B_MTV_Pouches
+2, CUP_V_B_MTV_TL
+2, CUP_V_B_MTV_noCB
+2, CUP_V_B_PilotVest
+2, CUP_V_B_RRV_DA1
+2, CUP_V_B_RRV_DA2
+2, CUP_V_B_RRV_Light
+2, CUP_V_B_RRV_MG
+2, CUP_V_B_RRV_Medic
+2, CUP_V_B_RRV_Officer
+2, CUP_V_B_RRV_Scout
+2, CUP_V_B_RRV_Scout2
+2, CUP_V_B_RRV_Scout3
+2, CUP_V_B_RRV_TL
+2, CUP_V_I_Carrier_Belt
+2, CUP_V_I_RACS_Carrier_Vest
+2, CUP_V_I_RACS_Carrier_Vest_2
+2, CUP_V_I_RACS_Carrier_Vest_3
+2, CUP_V_OI_TKI_Jacket1_01
+2, CUP_V_OI_TKI_Jacket1_02
+2, CUP_V_OI_TKI_Jacket1_03
+2, CUP_V_OI_TKI_Jacket1_04
+2, CUP_V_OI_TKI_Jacket1_05
+2, CUP_V_OI_TKI_Jacket1_06
+2, CUP_V_OI_TKI_Jacket2_01
+2, CUP_V_OI_TKI_Jacket2_02
+2, CUP_V_OI_TKI_Jacket2_03
+2, CUP_V_OI_TKI_Jacket2_04
+2, CUP_V_OI_TKI_Jacket2_05
+2, CUP_V_OI_TKI_Jacket2_06
+2, CUP_V_OI_TKI_Jacket3_01
+2, CUP_V_OI_TKI_Jacket3_02
+2, CUP_V_OI_TKI_Jacket3_03
+2, CUP_V_OI_TKI_Jacket3_04
+2, CUP_V_OI_TKI_Jacket3_05
+2, CUP_V_OI_TKI_Jacket3_06
+2, CUP_V_OI_TKI_Jacket4_01
+2, CUP_V_OI_TKI_Jacket4_02
+2, CUP_V_OI_TKI_Jacket4_03
+2, CUP_V_OI_TKI_Jacket4_04
+2, CUP_V_OI_TKI_Jacket4_05
+2, CUP_V_OI_TKI_Jacket4_06
+2, CUP_V_O_SLA_Carrier_Belt
+2, CUP_V_O_SLA_Carrier_Belt02
+2, CUP_V_O_SLA_Carrier_Belt03
+2, CUP_V_O_SLA_Flak_Vest01
+2, CUP_V_O_SLA_Flak_Vest02
+2, CUP_V_O_SLA_Flak_Vest03
+2, CUP_V_O_TK_CrewBelt
+2, CUP_V_O_TK_OfficerBelt
+2, CUP_V_O_TK_OfficerBelt2
+2, CUP_V_O_TK_Vest_1
+2, CUP_V_O_TK_Vest_2
+
 
 > MilitaryHeadgear
 1, H_CrewHelmetHeli_B
@@ -800,6 +1019,105 @@
 4, H_MilCap_ocamo
 4, H_MilCap_oucamo
 4, H_MilCap_rucamo
+2, CUP_H_SLA_BeretRed
+2, CUP_H_BAF_Helmet_1_DDPM
+2, CUP_H_BAF_Helmet_1_DPM
+2, CUP_H_BAF_Helmet_1_MTP
+2, CUP_H_BAF_Helmet_2_DDPM
+2, CUP_H_BAF_Helmet_2_DPM
+2, CUP_H_BAF_Helmet_2_MTP
+2, CUP_H_BAF_Helmet_3_DDPM
+2, CUP_H_BAF_Helmet_3_DPM
+2, CUP_H_BAF_Helmet_3_MTP
+2, CUP_H_BAF_Helmet_4_DDPM
+2, CUP_H_BAF_Helmet_4_DPM
+2, CUP_H_BAF_Helmet_4_MTP
+2, CUP_H_BAF_Officer_Beret_PRR_O
+2, CUP_H_FR_BandanaGreen
+2, CUP_H_FR_BandanaWdl
+2, CUP_H_FR_Bandana_Headset
+2, CUP_H_FR_BeanieGreen
+2, CUP_H_FR_BoonieMARPAT
+2, CUP_H_FR_BoonieWDL
+2, CUP_H_FR_Cap_Headset_Green
+2, CUP_H_FR_Cap_Officer_Headset
+2, CUP_H_FR_ECH
+2, CUP_H_FR_Headband_Headset
+2, CUP_H_FR_Headset
+2, CUP_H_FR_PRR_BoonieWDL
+2, CUP_H_GER_Boonie_Flecktarn
+2, CUP_H_GER_Boonie_desert
+2, CUP_H_NAPA_Fedora
+2, CUP_H_Navy_CrewHelmet_Blue
+2, CUP_H_Navy_CrewHelmet_Brown
+2, CUP_H_Navy_CrewHelmet_Green
+2, CUP_H_Navy_CrewHelmet_Red
+2, CUP_H_Navy_CrewHelmet_Violet
+2, CUP_H_Navy_CrewHelmet_White
+2, CUP_H_Navy_CrewHelmet_Yellow
+2, CUP_H_PMC_Cap_Grey
+2, CUP_H_PMC_Cap_PRR_Grey
+2, CUP_H_PMC_Cap_PRR_Tan
+2, CUP_H_PMC_Cap_Tan
+2, CUP_H_PMC_EP_Headset
+2, CUP_H_PMC_PRR_Headset
+2, CUP_H_RACS_Beret_Blue
+2, CUP_H_RACS_Helmet_DPAT
+2, CUP_H_RACS_Helmet_Des
+2, CUP_H_RACS_Helmet_Goggles_DPAT
+2, CUP_H_RACS_Helmet_Goggles_Des
+2, CUP_H_RACS_Helmet_Headset_DPAT
+2, CUP_H_RACS_Helmet_Headset_Des
+2, CUP_H_SLA_BeenieGreen
+2, CUP_H_SLA_Beret
+2, CUP_H_SLA_Boonie
+2, CUP_H_SLA_Helmet
+2, CUP_H_SLA_OfficerCap
+2, CUP_H_SLA_Pilot_Helmet
+2, CUP_H_SLA_SLCap
+2, CUP_H_SLA_TankerHelmet
+2, CUP_H_TKI_Lungee_01
+2, CUP_H_TKI_Lungee_02
+2, CUP_H_TKI_Lungee_03
+2, CUP_H_TKI_Lungee_04
+2, CUP_H_TKI_Lungee_05
+2, CUP_H_TKI_Lungee_06
+2, CUP_H_TKI_Lungee_Open_01
+2, CUP_H_TKI_Lungee_Open_02
+2, CUP_H_TKI_Lungee_Open_03
+2, CUP_H_TKI_Lungee_Open_04
+2, CUP_H_TKI_Lungee_Open_05
+2, CUP_H_TKI_Lungee_Open_06
+2, CUP_H_TKI_Pakol_1_01
+2, CUP_H_TKI_Pakol_1_02
+2, CUP_H_TKI_Pakol_1_03
+2, CUP_H_TKI_Pakol_1_04
+2, CUP_H_TKI_Pakol_1_05
+2, CUP_H_TKI_Pakol_1_06
+2, CUP_H_TKI_Pakol_2_01
+2, CUP_H_TKI_Pakol_2_02
+2, CUP_H_TKI_Pakol_2_03
+2, CUP_H_TKI_Pakol_2_04
+2, CUP_H_TKI_Pakol_2_05
+2, CUP_H_TKI_Pakol_2_06
+2, CUP_H_TKI_SkullCap_01
+2, CUP_H_TKI_SkullCap_02
+2, CUP_H_TKI_SkullCap_03
+2, CUP_H_TKI_SkullCap_04
+2, CUP_H_TKI_SkullCap_05
+2, CUP_H_TKI_SkullCap_06
+2, CUP_H_TK_Beret
+2, CUP_H_TK_Helmet
+2, CUP_H_TK_Lungee
+2, CUP_H_TK_PilotHelmet
+2, CUP_H_TK_TankerHelmet
+2, CUP_H_USMC_Crew_Helmet
+2, CUP_H_USMC_Goggles_HelmetWDL
+2, CUP_H_USMC_HeadSet_GoggleW_HelmetWDL
+2, CUP_H_USMC_HeadSet_HelmetWDL
+2, CUP_H_USMC_HelmetWDL
+2, CUP_H_USMC_Helmet_Pilot
+2, CUP_H_USMC_Officer_Cap
 
 > Ghillies
 1, U_B_GhillieSuit			// Ghillie Suit [NATO]
