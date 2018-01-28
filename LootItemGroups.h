@@ -65,6 +65,18 @@
 2, hgun_P07_F				// P07 9 mm
 2, hgun_Rook40_F			// Rook-40 9 mm
 2, Exile_Weapon_SA61		// SA61
+1, CUP_hgun_Colt1911		//CUP Colt 1911 .45 ACP
+3, CUP_hgun_Compact		//CUP Compact
+3, CUP_hgun_Duty		//CUP Police Duty
+2, CUP_hgun_Glock17		//CUP Glock17
+2, CUP_hgun_M9			//CUP M9 9mm
+1, CUP_hgun_Makarov		//CUP Makarov
+1, CUP_hgun_MicroUzi		//CUP Micro UZI
+1, CUP_hgun_PB6P9		//CUP PB6P9 SD
+1, CUP_hgun_Phantom		//CUP Phantom
+1, CUP_hgun_SA61		//CUP SA61
+1, CUP_hgun_TaurusTracker455	//CUP Taurus
+1, CUP_hgun_TaurusTracker455_gold	//CUP Taurus (Gold)
 
 > PistolAmmo
 1, 6Rnd_GreenSignal_F					// Starter Pistol
