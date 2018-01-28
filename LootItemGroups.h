@@ -106,7 +106,7 @@
 1, optic_Yorris		// No one needs this crap
 2, muzzle_snds_acp
 2, muzzle_snds_L
-2. CUP_muzzle_PB6P9
+2, CUP_muzzle_PB6P9
 3, CUP_muzzle_snds_M9
 1, CUP_muzzle_snds_MicroUzi
 
